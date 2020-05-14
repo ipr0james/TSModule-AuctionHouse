@@ -1,0 +1,8 @@
+{
+  "name": "${main}",
+  "version": "${project.version}",
+  "main": "${mainClass}",
+  "dependency": [
+    "Vault"
+  ]
+}

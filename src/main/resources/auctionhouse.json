@@ -1,0 +1,12 @@
+{
+  "version-control": {
+    "version": 1.0
+  },
+  "sell-duration": 48,
+  "categories": {
+    "enabled": false,
+    "types": {
+
+    }
+  }
+}
